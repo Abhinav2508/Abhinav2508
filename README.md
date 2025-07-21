@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Abhinav Kumar!
 
-🎓 B.Tech CSE (Data Science) | BPIT | Guru Gobind Singh Indraprasth University  
+🎓 B.Tech CSE (Data Science) | BPIT | Guru Govind Singh Indraprasth University  
 💻 Passionate about Coding, Data Science, and Frontend Development  
 🚀 Exploring Machine Learning, JavaScript, and GitHub Projects  
 🧠 Love to solve real-world problems using tech  
@@ -33,9 +33,9 @@
 
 Here are a few projects I'm proud of:
 
-- 🔍 [Yes Bank Stock Price Prediction](https://github.com/Abhinav2508/Yes-Bank-Stock-Prediction)
-- 📱 [Mobile Price Range Prediction](https://github.com/Abhinav2508/Mobile-Price-Range-Prediction)
-- 🏨 [Hotel Booking Analysis](https://github.com/Abhinav2508/Hotel-Booking-EDA)
+- 🔍 [Yes Bank Stock Price Prediction](https://github.com/Abhinav2508/YES-BANK-STOCK-PRICE-CLOSING-PREDICTION)
+- 📱 [Mobile Price Range Prediction](https://github.com/Abhinav2508/Mobile_Price_Range_Prediction)
+- 🏨 [Hotel Booking Analysis](https://github.com/Abhinav2508/Hotel_Booking_EDA_Project)
 
 ---
 
